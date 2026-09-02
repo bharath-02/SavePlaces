@@ -7,3 +7,9 @@
 - firebase init
 
 - firebase deploy
+
+### After making updates
+
+- npm run build
+
+- firebase deploy
