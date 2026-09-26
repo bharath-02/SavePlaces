@@ -13,3 +13,5 @@
 - npm run build
 
 - firebase deploy
+
+DEPLOYED URL - https://saveplaces-02.web.app
